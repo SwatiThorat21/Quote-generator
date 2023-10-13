@@ -6,9 +6,9 @@ function App() {
     <div className="container">
       <h1>Quote Generator</h1>
       <section>
-        <button>Get Quote</button>
+        <button className="button-78">Get Quote</button>
         <h3>
-          <span>"</span>
+          <span className='p-space'>"</span>
           <p>You can observe a lot just by watching.</p>
           <span>"</span>
         </h3>
